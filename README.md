@@ -2,7 +2,7 @@
 
 A simple, fast, and searchable web application to explore all icons from Flutter's phosphor_flutter package. This tool was created to provide an easy-to-use visual reference, which was previously unavailable.
 
-Live Demo: [https://sympleaichat.github.io/FlutterFluentIconsViewer/](https://sympleaichat.github.io/FlutterFluentIconsViewer/)
+Live Demo: [https://sympleaichat.github.io/FlutterPhosphorIconsViewer/](https://sympleaichat.github.io/FlutterPhosphorIconsViewer/)
 
 (Note: Replace the URL above with your actual deployment URL after hosting it on GitHub Pages or another service.)
 
