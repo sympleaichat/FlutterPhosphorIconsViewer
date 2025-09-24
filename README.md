@@ -14,7 +14,7 @@ Live Demo: [https://sympleaichat.github.io/FlutterPhosphorIconsViewer/](https://
 
 •	Infinite Scrolling: Icons are loaded efficiently as you scroll, ensuring a smooth experience even with a massive dataset.
 
-•	Click to Copy: Simply click on any icon to copy its Flutter ID (e.g., home_24_filled) directly to your clipboard.
+•	Click to Copy: Simply click on any icon to copy its Flutter ID (e.g., atom) directly to your clipboard.
 
 •	Built with Flutter Web: Demonstrates the power of Flutter for building fast and beautiful web applications.
 
