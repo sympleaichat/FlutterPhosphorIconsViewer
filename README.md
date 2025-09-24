@@ -10,8 +10,6 @@ Live Demo: [https://sympleaichat.github.io/FlutterPhosphorIconsViewer/](https://
 
 ✨ **Features**
 
-•	Complete Icon Set: Browse all 17,000+ icons available in the phosphor_flutter package.
-
 •	Instant Search: Quickly find the icons you need with a responsive search bar that filters results as you type.
 
 •	Infinite Scrolling: Icons are loaded efficiently as you scroll, ensuring a smooth experience even with a massive dataset.
